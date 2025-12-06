@@ -1,20 +1,16 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
 
-# Run and deploy your AI Studio app
+## This is my first attempt to build a Github Program
 
-This contains everything you need to run your app locally.
+The idea was come from https://github.com/H3Art-q/Gitbook-CSTguidance, and oringally, https://survivesjtu.gitbook.io/survivesjtumanual/
 
-View your app in AI Studio: https://ai.studio/apps/drive/15KQdQDIDgM7VwQ5iHH_UXsiP2pNDHqeT
+It aims to note something down from me, like an diary during my growth and development experience ;
+Also, I was confused to the course, the life, the person···, almost all things in the university, I don't know how to study.
+Just Like what I did in the hight school? Or, become a diffterent person.
 
-## Run Locally
+I think a lot, I want to express a lot····
 
-**Prerequisites:**  Node.js
+Hope this work become a meaningful guide that might help you when you are deeply doubt what exactally you want to do, just like me at that time.
 
+Also hope you can write down your opinions, whatever you want to, whatever you think about. Your contribution can make this work become better.
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+**Like the name, I sincerely hope that this project could let your way, might a period of your long-life journey, be lightted, and light forever.**
