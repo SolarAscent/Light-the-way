@@ -1,5 +1,6 @@
+## The begin
 
-## This is my first attempt to build a Github Program
+This is my first attempt to build a Github Program
 
 The idea was come from https://github.com/H3Art-q/Gitbook-CSTguidance, and oringally, https://survivesjtu.gitbook.io/survivesjtumanual/
 
