@@ -1,4 +1,4 @@
-# Light Your Way
+# Version 1.0.2
 
 This is my first attempt at creating a GitHub repository of this kind.
 
